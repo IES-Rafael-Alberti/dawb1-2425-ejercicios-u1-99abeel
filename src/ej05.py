@@ -6,3 +6,9 @@ total = precio * iva
 
 print ("El precio del articulo con IVA es", total)
 
+
+
+
+
+
+
