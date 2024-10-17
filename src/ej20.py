@@ -1,3 +1,5 @@
-num = int(input("Escribe tu numero: +34 "))
+nume= input("Escribe tu numero de telefono con prefijo y extensión: ")
 
-print("tu numero es", num) fgsg
+nume = nume[4:13]
+
+print("Tu numero sin prefijo y extensión es: ", nume)
